@@ -1,7 +1,7 @@
 # Dynamic Programming Questions
 
 ## Easy
-[Unique Paths](https://leetcode.com/problems/unique-paths)
+1. [Unique Paths](https://leetcode.com/problems/unique-paths)
 
 ## Medium
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
