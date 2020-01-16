@@ -2,7 +2,7 @@
 
 ## Easy
 1. [Unique Paths](https://leetcode.com/problems/unique-paths)     👍
-2. [Maximum Subarray Sum](https://leetcode.com/problems/maximum-subarray)  👍
+2. [Maximum Contiguous Subarray Sum](https://leetcode.com/problems/maximum-subarray)  👍
 3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) 👍
 4. [House Robber](https://leetcode.com/problems/house-robber)     👍
 
