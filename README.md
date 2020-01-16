@@ -1,10 +1,10 @@
 # Dynamic Programming Questions
 
 ## Easy
-1. [Unique Paths](https://leetcode.com/problems/unique-paths)
+1. [Unique Paths](https://leetcode.com/problems/unique-paths) 👍
 
 ## Medium
-1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
+1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) 👍
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 3. [Coin Change](https://leetcode.com/problems/coin-change)
 4. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii)
