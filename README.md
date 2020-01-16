@@ -1,8 +1,8 @@
 # Dynamic Programming Questions
 
 ## Easy
-1. [Unique Paths](https://leetcode.com/problems/unique-paths) 👍
-2. [House Robber](https://leetcode.com/problems/house-robber) 👍
+1. [Unique Paths](https://leetcode.com/problems/unique-paths)     👍
+2. [House Robber](https://leetcode.com/problems/house-robber)     👍
 
 ## Medium
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) 👍
