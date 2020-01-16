@@ -13,3 +13,6 @@
 7. [Edit Distance](https://leetcode.com/problems/edit-distance)
 8. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 9. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+
+## Hard
+
