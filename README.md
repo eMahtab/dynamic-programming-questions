@@ -14,11 +14,12 @@
 5. [Count Square Submatrices with all ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) 👍
 6. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) 👍
 7. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) 👍
-8. [Number of Palindromic Substring](https://leetcode.com/problems/palindromic-substrings) 👍
-9. [Longest Palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) 👍
-10. [Paint House](https://leetcode.com/problems/paint-house) 👍
-11. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) 👍
-12. [Edit Distance](https://leetcode.com/problems/edit-distance) 👍
+8. [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) 👍
+9. [Number of Palindromic Substring](https://leetcode.com/problems/palindromic-substrings) 👍
+10. [Longest Palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) 👍
+11. [Paint House](https://leetcode.com/problems/paint-house) 👍
+12. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) 👍
+13. [Edit Distance](https://leetcode.com/problems/edit-distance) 👍
 
 ## Hard
 1. [Best Time to buy and sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
