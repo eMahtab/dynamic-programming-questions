@@ -2,9 +2,11 @@
 
 ## Easy
 1. [Unique Paths](https://leetcode.com/problems/unique-paths)     👍
-2. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) 👍
-3. [House Robber](https://leetcode.com/problems/house-robber)     👍
-4. [Maximum Contiguous Subarray Sum](https://leetcode.com/problems/maximum-subarray)  👍
+2. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) 👍
+3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) 👍
+4. [House Robber](https://leetcode.com/problems/house-robber)     👍
+5. [House Robber II](https://leetcode.com/problems/house-robber-ii) 👍
+6. [Maximum Contiguous Subarray Sum](https://leetcode.com/problems/maximum-subarray)  👍
 
 ## Medium
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) 👍
