@@ -16,8 +16,9 @@
 7. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) 👍
 8. [Number of Palindromic Substring](https://leetcode.com/problems/palindromic-substrings) 👍
 9. [Longest Palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) 👍
-10. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) 👍
-11. [Edit Distance](https://leetcode.com/problems/edit-distance) 👍
+10. [Paint House](https://leetcode.com/problems/paint-house) 👍
+11. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) 👍
+12. [Edit Distance](https://leetcode.com/problems/edit-distance) 👍
 
 ## Hard
 1. [Best Time to buy and sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
